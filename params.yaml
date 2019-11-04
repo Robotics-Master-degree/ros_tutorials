@@ -1,0 +1,12 @@
+background_b: 50
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_j_laptop__39987: 'http://J-laptop:39987/'}
+rosversion: '1.14.3
+
+  '
+run_id: 8b3c1968-ff53-11e9-8921-380025a0de67
