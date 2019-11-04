@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>beginner_tutorials</name>
-  <version>0.0.0</version>
-  <description>The beginner_tutorials package</description>
+  <version>0.1.0</version>
+  <description>The beginner_tutorials package done by Julia Marsal</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="julia@todo.todo">julia</maintainer>
+  <maintainer email="andreu.corominas@uvic.cat">Andreu Corominas</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>BSD</license>
 
 
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/beginner_tutorials</url> -->
+  <url type="website">https://github.com/easyrobotic/beginner_tutorials.git
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
-  <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
+   <author email="julia.marsal@uvic.cat">Julia Marsal</author>
 
 
   <!-- The *depend tags are used to specify dependencies -->
